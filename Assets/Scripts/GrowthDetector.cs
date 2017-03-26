@@ -17,7 +17,7 @@ public class GrowthDetector : MonoBehaviour
 
 	void Update()
 	{
-		bool isInside = GrowthManager.instance.AmIInsideGrowthPoint (this);
+		bool isInside = GrowthManager.instance.AmIInsideGrowthPoint (this.gameObject);
 
 		if (isInside) 
 		{
