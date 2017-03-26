@@ -284,7 +284,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63754f515fbd444e0b4dc0e69005bec5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  heightSpeed: 0.01
+  minY: 0
+  maxY: 100
+  duration: 5
   growthStage: 1
   grow: 0
 --- !u!114 &114000012898643134
@@ -298,7 +300,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63754f515fbd444e0b4dc0e69005bec5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  heightSpeed: 0.01
+  minY: 0
+  maxY: 100
+  duration: 5
   growthStage: 1
   grow: 0
 --- !u!114 &114000013589104452
@@ -312,6 +316,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63754f515fbd444e0b4dc0e69005bec5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  heightSpeed: 0.01
+  minY: 0
+  maxY: 100
+  duration: 5
   growthStage: 1
   grow: 0
