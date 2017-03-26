@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
+	<RootPaths>
+		<ProjectRoot>/Users/matt/Library/Application Support/Wwise/Bottles/wwise/dosdevices/z:/Volumes/1TB/SOUND DESIGN/Slow Game Jam/WWISE/CITYSCAPE DECAY/</ProjectRoot>
+		<SourceFilesRoot>/Users/matt/Library/Application Support/Wwise/Bottles/wwise/dosdevices/z:/Volumes/1TB/SOUND DESIGN/Slow Game Jam/WWISE/CITYSCAPE DECAY/.cache/Windows/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/matt/Library/Application Support/Wwise/Bottles/wwise/dosdevices/z:/Volumes/1TB/SOUND DESIGN/Slow Game Jam/WWISE/CITY SOUNDBANK/WINDOWS/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>Z:\Volumes\1TB\SOUND DESIGN\Slow Game Jam\WWISE\CITYSCAPE DECAY\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX">
+			<ShortName>MAIN</ShortName>
+			<Path>MAIN.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3034623661" Name="ATMOS"/>
+				<Event Id="352130103" Name="BIRDS"/>
+				<Event Id="2446376615" Name="DESTRUCTION"/>
+				<Event Id="3292408900" Name="GROWING"/>
+				<Event Id="582824249" Name="LEAVES"/>
+				<Event Id="3991942870" Name="MUSIC"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="7552566" Language="SFX">
+					<ShortName>WOOD REC_03-01.wav</ShortName>
+					<Path>SFX/WOOD REC_03-01_9E69E797.wem</Path>
+				</File>
+				<File Id="51011899" Language="SFX">
+					<ShortName>BIRDS04-7eqa_01-03.L.wav</ShortName>
+					<Path>SFX/BIRDS04-7eqa_01-03.L_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="52780225" Language="SFX">
+					<ShortName>GLASS06.L.wav</ShortName>
+					<Path>SFX/GLASS06.L_0915B371.wem</Path>
+				</File>
+				<File Id="53909041" Language="SFX">
+					<ShortName>BIRDS NIGHT-01.L.wav</ShortName>
+					<Path>SFX/BIRDS NIGHT-01.L_D3A0DC42.wem</Path>
+				</File>
+				<File Id="141895638" Language="SFX">
+					<ShortName>GLASS04.L.wav</ShortName>
+					<Path>SFX/GLASS04.L_110E6FF8.wem</Path>
+				</File>
+				<File Id="155977993" Language="SFX">
+					<ShortName>BIRD FLIGHT01-01.wav</ShortName>
+					<Path>SFX/BIRD FLIGHT01-01_1C45C284.wem</Path>
+				</File>
+				<File Id="201354602" Language="SFX">
+					<ShortName>LEAVES3.wav</ShortName>
+					<Path>SFX/LEAVES3_B21C5A2E.wem</Path>
+				</File>
+				<File Id="230971760" Language="SFX">
+					<ShortName>WIND REC_01-01.wav</ShortName>
+					<Path>SFX/WIND REC_01-01_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="264747651" Language="SFX">
+					<ShortName>WOOD REC_02-01.wav</ShortName>
+					<Path>SFX/WOOD REC_02-01_9E69E797.wem</Path>
+				</File>
+				<File Id="286693576" Language="SFX">
+					<ShortName>LEAVES1.wav</ShortName>
+					<Path>SFX/LEAVES1_44955982.wem</Path>
+				</File>
+				<File Id="308302099" Language="SFX">
+					<ShortName>GLASS07.L.wav</ShortName>
+					<Path>SFX/GLASS07.L_670E4CA4.wem</Path>
+				</File>
+				<File Id="386961505" Language="SFX">
+					<ShortName>GLASS02.L.wav</ShortName>
+					<Path>SFX/GLASS02.L_3B545F4E.wem</Path>
+				</File>
+				<File Id="510766153" Language="SFX">
+					<ShortName>BRICK REC_01-02.L.wav</ShortName>
+					<Path>SFX/BRICK REC_01-02.L_4D6F328A.wem</Path>
+				</File>
+				<File Id="515201860" Language="SFX">
+					<ShortName>LEAVES4.wav</ShortName>
+					<Path>SFX/LEAVES4_050D72BF.wem</Path>
+				</File>
+				<File Id="527300692" Language="SFX">
+					<ShortName>GLASS03.L.wav</ShortName>
+					<Path>SFX/GLASS03.L_BAF853D1.wem</Path>
+				</File>
+				<File Id="539491571" Language="SFX">
+					<ShortName>BRICK REC_01-02.L.wav</ShortName>
+					<Path>SFX/BRICK REC_01-02.L_3C8E5B1C.wem</Path>
+				</File>
+				<File Id="612478022" Language="SFX">
+					<ShortName>BRICK REC_01-02.L.wav</ShortName>
+					<Path>SFX/BRICK REC_01-02.L_20838C4B.wem</Path>
+				</File>
+				<File Id="665711854" Language="SFX">
+					<ShortName>WOOD REC_01-01.wav</ShortName>
+					<Path>SFX/WOOD REC_01-01_9E69E797.wem</Path>
+				</File>
+				<File Id="671489556" Language="SFX">
+					<ShortName>GLASS01.L.wav</ShortName>
+					<Path>SFX/GLASS01.L_563640DB.wem</Path>
+				</File>
+				<File Id="709720977" Language="SFX">
+					<ShortName>BRICK REC_01-02.L.wav</ShortName>
+					<Path>SFX/BRICK REC_01-02.L_40AECF06.wem</Path>
+				</File>
+				<File Id="713491511" Language="SFX">
+					<ShortName>GLASS09.L.wav</ShortName>
+					<Path>SFX/GLASS09.L_93D0492D.wem</Path>
+				</File>
+				<File Id="738813176" Language="SFX">
+					<ShortName>LEAVES4.wav</ShortName>
+					<Path>SFX/LEAVES4_9B0B5373.wem</Path>
+				</File>
+				<File Id="764603908" Language="SFX">
+					<ShortName>WOOD REC-TiSh_01-02.wav</ShortName>
+					<Path>SFX/WOOD REC-TiSh_01-02_9E69E797.wem</Path>
+				</File>
+				<File Id="788270684" Language="SFX">
+					<ShortName>GLASS05.L.wav</ShortName>
+					<Path>SFX/GLASS05.L_E31F0F0A.wem</Path>
+				</File>
+				<File Id="863298150" Language="SFX">
+					<ShortName>LEAVES2.wav</ShortName>
+					<Path>SFX/LEAVES2_E35A39CB.wem</Path>
+				</File>
+				<File Id="890424785" Language="SFX">
+					<ShortName>ABSYNTH REC_02-03.L.wav</ShortName>
+					<Path>SFX/ABSYNTH REC_02-03.L_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="922062844" Language="SFX">
+					<ShortName>music high.L.wav</ShortName>
+					<Path>SFX/music high.L_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="950872336" Language="SFX">
+					<ShortName>CROW-7eqa_02-03.L.wav</ShortName>
+					<Path>SFX/CROW-7eqa_02-03.L_73304D00.wem</Path>
+				</File>
+				<File Id="978082142" Language="SFX">
+					<ShortName>GLASS08.L.wav</ShortName>
+					<Path>SFX/GLASS08.L_51B5BA1B.wem</Path>
+				</File>
+				<File Id="1007670055" Language="SFX">
+					<ShortName>WOOD REC-TiSh_02-02.wav</ShortName>
+					<Path>SFX/WOOD REC-TiSh_02-02_9E69E797.wem</Path>
+				</File>
+				<File Id="1039140309" Language="SFX">
+					<ShortName>WOOD REC-TiSh_03-02.wav</ShortName>
+					<Path>SFX/WOOD REC-TiSh_03-02_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
