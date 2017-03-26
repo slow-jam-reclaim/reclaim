@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{0B28E50A-812D-B054-68E4-2C59A9A3F2A4}") = "SlowJam", "Assembly-CSharp.csproj", "{FC11453E-EB6A-CC1F-A568-AAD7A71B7E4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC11453E-EB6A-CC1F-A568-AAD7A71B7E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC11453E-EB6A-CC1F-A568-AAD7A71B7E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC11453E-EB6A-CC1F-A568-AAD7A71B7E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC11453E-EB6A-CC1F-A568-AAD7A71B7E4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

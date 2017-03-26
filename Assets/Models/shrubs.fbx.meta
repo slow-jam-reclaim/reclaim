@@ -1,0 +1,108 @@
+fileFormatVersion: 2
+guid: 528899845819346e995c8f0c5c859b09
+timeCreated: 1490532685
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: all_shrubs
+    100002: dark_green_shrub
+    100004: flowers
+    100006: light_green_shrub
+    100008: medium_green_shrub
+    100010: pink_flower
+    100012: purple_flower
+    100014: //RootNode
+    100016: yellow_flower
+    400000: all_shrubs
+    400002: dark_green_shrub
+    400004: flowers
+    400006: light_green_shrub
+    400008: medium_green_shrub
+    400010: pink_flower
+    400012: purple_flower
+    400014: //RootNode
+    400016: yellow_flower
+    2300000: dark_green_shrub
+    2300002: light_green_shrub
+    2300004: medium_green_shrub
+    2300006: pink_flower
+    2300008: purple_flower
+    2300010: yellow_flower
+    3300000: dark_green_shrub
+    3300002: light_green_shrub
+    3300004: medium_green_shrub
+    3300006: pink_flower
+    3300008: purple_flower
+    3300010: yellow_flower
+    4300000: yellow_flower
+    4300002: pink_flower
+    4300004: purple_flower
+    4300006: dark_green_shrub
+    4300008: medium_green_shrub
+    4300010: light_green_shrub
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
