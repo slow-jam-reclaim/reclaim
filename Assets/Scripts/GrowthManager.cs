@@ -41,7 +41,7 @@ public class GrowthManager : MonoBehaviour
 		m_growths.Remove (growth);
 	}
 
-	public bool AmIInsideGrowthPoint(GrowthDetector detector)
+	public bool AmIInsideGrowthPoint(GameObject detector)
 	{
 		for (int i = 0; i < m_growths.Count; i++) 
 		{
