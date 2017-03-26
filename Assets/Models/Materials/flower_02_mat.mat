@@ -75,7 +75,7 @@ Material:
       second: 1
     - first:
         name: _ConstructGap
-      second: 2
+      second: 0
     - first:
         name: _Cutoff
       second: 0.5
@@ -127,7 +127,7 @@ Material:
       second: {r: 1, g: 0.0784, b: 0.4566, a: 1}
     - first:
         name: _ConstructColor
-      second: {r: 1, g: 1, b: 1, a: 1}
+      second: {r: 1, g: 0.078431375, b: 0.454902, a: 1}
     - first:
         name: _EmissionColor
       second: {r: 0, g: 0, b: 0, a: 1}
