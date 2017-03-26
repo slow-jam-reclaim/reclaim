@@ -536,9 +536,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63754f515fbd444e0b4dc0e69005bec5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minY: 0
-  maxY: 100
-  duration: 30
+  heightSpeed: 0.001
   growthStage: 2
   grow: 0
 --- !u!114 &114000010698574960
@@ -552,9 +550,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63754f515fbd444e0b4dc0e69005bec5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minY: 0
-  maxY: 100
-  duration: 30
+  heightSpeed: 0.001
   growthStage: 3
   grow: 0
 --- !u!114 &114000011782282214
@@ -568,9 +564,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63754f515fbd444e0b4dc0e69005bec5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minY: 0
-  maxY: 100
-  duration: 30
+  heightSpeed: 0.001
   growthStage: 3
   grow: 0
 --- !u!114 &114000012221697736
@@ -595,9 +589,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63754f515fbd444e0b4dc0e69005bec5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minY: 0
-  maxY: 100
-  duration: 30
+  heightSpeed: 0.001
   growthStage: 2
   grow: 0
 --- !u!114 &114000013187595530
@@ -611,9 +603,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63754f515fbd444e0b4dc0e69005bec5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minY: 0
-  maxY: 100
-  duration: 30
+  heightSpeed: 0.001
   growthStage: 2
   grow: 0
 --- !u!114 &114000013620225090
@@ -627,8 +617,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63754f515fbd444e0b4dc0e69005bec5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minY: 0
-  maxY: 100
-  duration: 30
+  heightSpeed: 0.001
   growthStage: 3
   grow: 0
